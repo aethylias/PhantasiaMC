@@ -1,0 +1,18 @@
+ 3.2.0 Defense & Economy Update + Nether/End Overhaul
+
+- Nether and End Overhaul using BetterX mods and other mods related to the two dimensions
+- Armor Calculation Overhaul
+- Added Item Locks
+- Added Damage Indicators
+- Added Better Mount HUD
+- Added Falling Leaves (optional)
+- Added TT20 for instances when the server dips below 20 ticks per second
+- Added Mystic Potions
+- Added Economy System (Diamond Economy)
+- Added Auction House and Chest Shop
+- Added Secure Crops (crops will not get trampled anymore)
+- Added Nature’s Compass
+- Added Bits&Chisels
+- Added Sodium Extras
+- Added Callable Horse
+- Added Several Performance-related mods
