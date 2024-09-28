@@ -1,8 +1,0 @@
-Phantasia 3.0.1 Initial Beta Release
-
-- Removed mods that were crashing the server
-- Modified the download links in the updater
-- Added discord rich presence and discord bot functionality
-- Added the official server IP in the server list
-- Changed default texture pack from Builder’s QOL → MakeUp UltraFast
-- Fixed bugged GUI elements that were present in the multiplayer mode
